@@ -1,5 +1,5 @@
 # idshwk1
-• Make a Repo with name idshwk1 
+• Make a Repo with name idshwk1//
 • Add a file test.rules to your project 
 • write a rule in test.rules
 • detect a tcp packet with
